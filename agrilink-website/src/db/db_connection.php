@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "imsherlocked26@";
+$password = "";
 $database = "agrilink";
 
 $connection = new mysqli($servername, $username, $password, $database);
